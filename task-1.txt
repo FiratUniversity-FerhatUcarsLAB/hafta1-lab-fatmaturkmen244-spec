@@ -1,4 +1,35 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:250541063
+AD-SOYAD:fatma TÜRKMEN                                                                                                                                  
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+1. Malzemeleri Hazırla
+   - Yumurta (2 veya 3 adet)
+   - Süt (isteğe bağlı, 1-2 yemek kaşığı)
+   - Tuz, karabiber
+   - Tereyağı veya sıvı yağ
+   - Opsiyonel: Peynir, biber, mantar, sucuk vb.
+
+2. Karışımı Hazırla
+   - Yumurtaları bir kaseye kır
+   - Tuz, karabiber ekle
+   - İsteğe bağlı olarak süt ekle
+   - Tüm malzemeleri çırp (homojen bir karışım olana kadar)
+
+3. Tavayı Hazırla
+   - Teflon veya yapışmaz tava seç
+   - Tavayı orta ateşte ısıt
+   - Bir tatlı kaşığı tereyağı veya sıvı yağ ekle
+   - Yağın erimesini / kızmasını bekle
+
+4. Omleti Pişir
+   - Yumurtalı karışımı tavaya dök
+   - 10-15 saniye bekle, sonra kenarlardan ortaya doğru iterek pişmesini sağla
+   - Omletin altı pişince üstüne isteğe bağlı malzemeleri koy (peynir, sucuk vs.)
+   - Omleti ikiye katla
+
+5. Son Kontrol
+   - Altı altın sarısı olunca ocağı kapat
+   - Omleti tabakla servis et
+
+6. Afiyet olsun :)                                                               
+Buna ilaveten döngüler eklenebilir .
